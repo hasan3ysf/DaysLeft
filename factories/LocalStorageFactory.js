@@ -1,11 +1,5 @@
 app.factory('LocalStorageFactory', function() {
 
-
-	// TODO: LocalStorage cookie fallback
-	// TODO: Error msg if LocalStorage is not supported
-	// TODO: Async LocalStorage/Cookie save & read
-
-
 	var storage = {},
 	pfx = "ps_";
 

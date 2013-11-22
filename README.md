@@ -7,8 +7,8 @@ The idea of the app is that you add event with dates and app will show you how m
 You can add/remove/update event info.
 
 This is also available as:
-- Web: http://angular.site44.com/DaysLeft
+- Web: http://angular.site44.com/DaysLeft/
 - Chrome Extension: comming soon..
 
 
-Feel free to copy/reuse/change code.
+GNU (General Public License): Feel free to copy/reuse/change code.
