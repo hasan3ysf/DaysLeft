@@ -8,8 +8,7 @@ You can add/remove/update event info.
 
 This is also available as:
 - Web: http://angular.site44.com/DaysLeft
-- Chrome Extension: 
-
+- Chrome Extension: comming soon..
 
 
 Feel free to copy/reuse/change code.
