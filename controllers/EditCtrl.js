@@ -1,10 +1,10 @@
 // EditCtrl
 app.controller("EditCtrl", [ "$scope", "$location", "$routeParams", "LocalStorageFactory", "$filter", function ($scope, $location, $routeParams, db, $filter){
 
-	var item = db.readItem("events", $routeParams.id);
+    var item = db.readItem("events", $routeParams.id);
 
-	// in order for input type="date" to work, date must be a STRING & ISO format
-	// code below is not required any more as the conversion is done on addEvent in NewCtrl
+    // in order for input type="date" to work, date must be a STRING & ISO format
+    // code below is not required any more as the conversion is done on addEvent in NewCtrl
     // item.dateAsString = $filter('date')(item.date, "yyyy-MM-dd");
 
     // create a copy for before save comparesment
