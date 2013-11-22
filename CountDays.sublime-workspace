@@ -1,0 +1,683 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"pos",
+				"pos-a	position: absolute;"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"build",
+				"buildItem"
+			],
+			[
+				"user",
+				"UserCtrl"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"add",
+				"addToCollection"
+			],
+			[
+				"video",
+				"video_height"
+			],
+			[
+				"vide",
+				"video_width"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"wh",
+				"white-space"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"page",
+				"page_id"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"log",
+				"logConsole"
+			],
+			[
+				"po",
+				"pos-r	position: relative;"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"the",
+				"the_permalink"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"ove",
+				"overflow-y"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"funct",
+				"function"
+			],
+			[
+				"ng-cl",
+				"ng-click	AngularJS"
+			],
+			[
+				"function",
+				"angular.isFunction	AngularJS"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 365,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "var app = angular.module(\"app\", []);\n\napp.config( function(){\n	\n});\n",
+			"file": "index.js",
+			"file_size": 68,
+			"file_write_time": 130295174803531581,
+			"settings":
+			{
+				"buffer_size": 68,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/JSLint/JSLint.sublime-build",
+	"command_palette":
+	{
+		"height": 390.0,
+		"selected_items":
+		[
+			[
+				"list all",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"lshow err",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"jshi",
+				"JSHint"
+			],
+			[
+				"set java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 516.0
+	},
+	"console":
+	{
+		"height": 346.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/www/angular/days/index.html",
+		"/C/www/angular/tasks/factories/RestangularFactory.js",
+		"/C/www/angular/demos/PromisesWithAPI/index.html",
+		"/C/www/angular/demos/PromisesWithAPI/index.js",
+		"/C/www/angular/demos/ShareDataBetweenControllers/index.html",
+		"/C/www/angular/demos/ShareDataBetweenControllers/app.js",
+		"/C/www/angular/tasks/index.html",
+		"/C/www/angular/MongoLab CRUD/app.js",
+		"/C/www/angular/tasks/controllers/CategoryCtrl.js",
+		"/C/www/angular/tasks/controllers/UserCtrl.js",
+		"/C/www/angular/tasks/controllers/TaskCtrl.js",
+		"/C/www/angular/demos/PromisesWithAPI/lib/angular/angular.js",
+		"/C/www/angular/tasks/index.js",
+		"/C/www/angular/tasks/factories/SharedData.js",
+		"/C/www/angular/tasks/index.css",
+		"/C/www/angular/tasks/controllers/TaskController.js",
+		"/C/www/angular/tasks/bower.json",
+		"/C/www/angular/tasks/views",
+		"//svr-bws031/f$/inetpub/BiffanetRoot/cms/wp-content/themes/biffanet_cms_classic_1_1/header.php",
+		"//svr-bws031/f$/inetpub/BiffanetRoot/cms/wp-content/themes/biffanet_cms_classic_1_1/functions.php",
+		"/C/www/acf/wp-content/themes/biffanet_cms_classic_1_1/functions.php",
+		"/C/Documents and Settings/piotr.seefeld/Desktop/aasdasd.html",
+		"/C/www/acf/wp-content/themes/biffanet_cms_classic_1_1/vendor/tmp_files.php",
+		"/C/www/acf/wp-content/themes/biffanet_cms_classic_1_1/tmp_table_5_columns/index.php",
+		"/C/Documents and Settings/piotr.seefeld/Desktop/asdasdasd.html",
+		"/C/Documents and Settings/piotr.seefeld/Desktop/asd.html",
+		"/C/www/acf/wp-content/themes/biffanet_cms_classic_1_1/datatables/index.js",
+		"/C/www/acf/wp-content/themes/biffanet_cms_classic_1_1/acf/acf_fields/doc_table_5.php",
+		"/C/Documents and Settings/piotr.seefeld/Application Data/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/www/angular/tasks/.bowerrc",
+		"/C/www/angular/tasks/lib/angular/angular.js",
+		"/C/Console2/aliases.cmd",
+		"//svr-bws031/f$/inetpub/BiffanetRoot/cms/wp-content/themes/biffanet_cms_classic_1_1/css/index.less",
+		"/C/projects/biffanet/HomePage/Menu/js/index.js",
+		"//svr-bws031/f$/inetpub/BiffanetRoot/cms/wp-content/themes/biffanet_cms_classic_1_1/bootstrap/bootstrap.min.css",
+		"/C/WINDOWS/system32/drivers/etc/hosts",
+		"/C/www/angular/LocalStorageORM/factory/index.js",
+		"/C/www/laravel/app/config/database.php",
+		"/C/www/odchudzanie/index.js",
+		"/C/www/angular/days/index.js",
+		"/C/www/angular/days/manifest.json",
+		"/C/projects/biffanet/HomePage/Menu/menu.js",
+		"/C/projects/biffanet/HomePage/Menu/menu.html",
+		"/C/Documents and Settings/piotr.seefeld/Desktop/Dropbox/Biffa Time Sheet & Patch/Piotr/pozyczki/app/manifest.json",
+		"/C/Documents and Settings/piotr.seefeld/Desktop/html.html",
+		"/C/projects/biffanet/HomePage/Menu/css/index.css",
+		"/C/projects/biffanet/HomePage/Menu/js/jquery.nestable.js",
+		"/C/www/angular/tests/test/test1.js",
+		"/C/Documents and Settings/piotr.seefeld/Desktop/Dropbox/Biffa Time Sheet & Patch/Piotr/pozyczki/app/index.js",
+		"/C/Documents and Settings/piotr.seefeld/Desktop/Dropbox/Biffa Time Sheet & Patch/Piotr/pozyczki/app/index.html",
+		"/C/Documents and Settings/piotr.seefeld/Desktop/Dropbox/Biffa Time Sheet & Patch/Piotr/pozyczki/liczenie-zwrotu-inwestowanie-na-lata.html",
+		"/C/Documents and Settings/piotr.seefeld/Desktop/nested-from-json.html",
+		"/C/Documents and Settings/piotr.seefeld/Desktop/testinh.html",
+		"/C/Documents and Settings/piotr.seefeld/Application Data/Sublime Text 3/Packages/SublimeLinter/README.md",
+		"/C/Documents and Settings/piotr.seefeld/Application Data/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"//svr-cressex2/Development Webfile/Biffanet-UAT/Homepage/Menu/js/index.js",
+		"//svr-cressex2/Development Webfile/Biffanet-UAT/Homepage/Menu/menu.js",
+		"/C/www/angular/LocalStorageORM/controller/index.js",
+		"/C/www/angular/LocalStorageORM/index.html",
+		"/C/www/angular/LocalStorageORM/index.js",
+		"/C/projects/biffanet/HomePage/Menu/Index.aspx",
+		"/C/www/angular/server.js",
+		"/C/www/angular/Gruntfile.js",
+		"/C/www/angular/apps/Chrome/app/Sample/index.html",
+		"/C/www/angular/apps/Chrome/app/Sample/js/index.js",
+		"/C/www/angular/apps/Chrome/app/Sample/manifest.json",
+		"/C/www/angular/LocalStorageORM/underscore.js",
+		"/C/www/angular/egghead/login/index.js",
+		"/C/www/angular/demos/simple crud/controllers.js",
+		"/C/www/angular/egghead/login/models.js",
+		"/C/www/angular/apps/Chrome/app/Sample/js/restangular.js",
+		"/C/www/angular/MasteringAngular/3/index.html",
+		"/C/www/angular/Chrome-Packaged-App/manifest.json",
+		"/C/www/angular/apps/Chrome/app/Sample/css/index.css",
+		"/C/www/angular/Chrome-Packaged-App/index.html",
+		"/C/www/angular/apps/Chrome/app/Sample/main.js",
+		"/C/www/angular/MasteringAngular/3/index.js",
+		"/C/Documents and Settings/piotr.seefeld/Desktop/Dropbox/Biffa Time Sheet & Patch/Piotr/ksiazki/OOP JS/index.js",
+		"/C/projects/biffanet/HomePage/Menu/Index.aspx.vb",
+		"/C/www/angular/MasteringAngular/1/index.js",
+		"/C/www/angular/MasteringAngular/1/index.html",
+		"/C/www/angular/MasteringAngular/empty/index.html",
+		"/C/www/angular/MasteringAngular/2/index.js",
+		"/C/www/angular/MasteringAngular/2/index.html",
+		"/C/Documents and Settings/piotr.seefeld/Desktop/nestedSortable jQuery Plugin.htm",
+		"/C/www/wpmu/wp-content/themes/wordpress-tuts/functions.php",
+		"/C/www/wpmu/wp-content/themes/wordpress-tuts/acf/acf_fields/fields.php",
+		"/C/www/wpmu/wp-content/themes/wordpress-tuts/header.php",
+		"/C/www/wpmu/wp-content/themes/wordpress-tuts/js/index.js",
+		"/C/www/wpmu/wp-content/themes/wordpress-tuts/front-page.php",
+		"/C/www/wpmu/wp-content/themes/wordpress-tuts/index.php",
+		"/C/www/angular/FirebaseOAuth/index.html",
+		"/C/www/angular/FirebaseOAuth/js/index.js",
+		"/C/www/angular/FirebaseOAuth/js/controllers.js",
+		"//svr-bws031/f$/inetpub/BiffanetRoot/cms/wp-content/themes/biffanet_cms_classic_1_1/tmp_front_page/index.php",
+		"//svr-bws031/f$/inetpub/BiffanetRoot/cms/wp-content/themes/biffanet_cms_classic_1_1/tmp_front_page/part_buttons.php",
+		"/C/www/wpmu/wp-content/themes/wordpress-tuts/footer.php",
+		"//svr-bws031/f$/inetpub/BiffanetRoot/cms/wp-content/themes/wordpress-tuts/functions.php",
+		"//svr-bws031/f$/inetpub/BiffanetRoot/cms/wp-content/themes/wordpress-tuts/front-page.php",
+		"//svr-bws031/f$/inetpub/BiffanetRoot/cms/wp-content/themes/biffanet_cms_classic_1_1/acf/acf_fields/metro_style_custom_links.php",
+		"/C/www/wpmu/wp-content/themes/wordpress-tuts/style.css",
+		"//svr-bws031/f$/inetpub/BiffanetRoot/cms/wp-content/themes/wordpress-tuts/acf/acf_fields/fields.php",
+		"/C/www/wpmu/wp-content/themes/wordpress-tuts/funcitons.php",
+		"/C/www/wpmu/wp-content/themes/wordpress-tuts/css/index.css",
+		"/C/www/wpmu/wp-content/themes/wordpress-tuts/index.html",
+		"/C/www/acf/wp-content/themes/biffanet_cms_classic_1_1/tmp_front_page/part_blog.php",
+		"/C/www/acf/wp-content/themes/biffanet_cms_classic_1_1/tmp_front_page/part_news.php",
+		"/C/www/acf/wp-content/themes/biffanet_cms_classic_1_1/acf/acf_fields/home_page_layout.php",
+		"/C/www/acf/wp-content/themes/biffanet_cms_classic_1_1/tmp_front_page/index.php",
+		"/C/www/acf/wp-content/themes/biffanet_cms_classic_1_1/tmp_metro_style_menu/index.php",
+		"/C/www/acf/wp-content/themes/biffanet_cms_classic_1_1/tmp_front_page/part_buttons.php",
+		"/C/www/acf/wp-content/themes/wordpress-tuts/style.css",
+		"/C/www/acf/wp-content/themes/biffanet_cms_classic_1_1/style.css",
+		"/C/www/acf/wp-content/themes/wordpress-tuts/funcitons.php",
+		"/C/www/acf/wp-content/themes/wordpress-tuts/index.html",
+		"/C/www/acf/wp-content/themes/biffanet_cms_classic_1_1/header.php",
+		"/C/www/acf/wp-content/themes/wordpress-tuts/header.php",
+		"/C/www/acf/wp-content/themes/biffanet_cms_classic_1_1/js/html5shiv.js",
+		"/C/www/wpmu/wp-content/themes/wordpress-tuts/acf/acf_fields/metro_style_custom_links.php",
+		"/C/www/acf/wp-content/themes/biffanet_cms_classic_1_1/vendor/acf.php",
+		"/C/www/acf/wp-content/themes/biffanet_cms_classic_1_1/footer.php",
+		"/C/www/acf/wp-content/themes/biffanet_cms_classic_1_1/tmp_questions_answers/index.php",
+		"/C/www/acf/wp-content/themes/biffanet_cms_classic_1_1/acf/acf_fields/team_tree.php",
+		"/C/www/acf/wp-content/themes/biffanet_cms_classic_1_1/acf/acf_fields/questions_answers.php",
+		"/C/www/acf/wp-content/themes/biffanet_cms_classic_1_1/acf/acf_fields/metro_style_custom_links.php",
+		"/C/www/acf/wp-content/themes/biffanet_cms_classic_1_1/tmp_files_table/index.php",
+		"/C/www/acf/wp-content/themes/biffanet_cms_classic_1_1/index.php",
+		"/C/Documents and Settings/piotr.seefeld/Desktop/FW DEV Municipal Round Upload.htm"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 111.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"api,",
+			"Restangular",
+			"\"Restangular\"",
+			";\n\n\napp",
+			";\n\napp",
+			"		\n",
+			"api",
+			"function ",
+			" x ",
+			"required",
+			"Category",
+			"categories",
+			"User",
+			"user",
+			"users",
+			"categories",
+			"users",
+			"RestangularProvider",
+			";\n\n\napp",
+			"Restangular",
+			"min.",
+			"width=",
+			"tr",
+			"Tr",
+			"tr",
+			"TR",
+			"tr",
+			"Tr",
+			"tr",
+			"tR",
+			"tr",
+			"Tr",
+			"tr",
+			"<td><a",
+			"                    ",
+			"                      ",
+			"                     ",
+			"                    ",
+			" \n",
+			"1.2.1\"",
+			"tmp_files_table",
+			"get_field(\"show_header_",
+			"column",
+			"column1",
+			"			",
+			"				",
+			"			",
+			"		",
+			"    ",
+			"   ",
+			"http://biffanet/",
+			"( \"",
+			"\"",
+			"console.log",
+			"            ",
+			"href=\"/",
+			"\"",
+			"$('#addForm input[name=\"title\"]')",
+			"'Link'",
+			"'Title'",
+			"'Link'",
+			"'Title'",
+			"tlt",
+			"btn-remove",
+			"item.",
+			"item",
+			"'",
+			"\"inpt\"",
+			"+ '\"",
+			"=\"'",
+			"\"'",
+			"\\",
+			"collection_id",
+			"_id",
+			"</ol></li>",
+			"</li></ol>",
+			"li><li",
+			"get_field('video_url');",
+			"<?php get",
+			"wpadminbar",
+			"template_part",
+			"8/H",
+			"min-",
+			" \n",
+			"Ø	",
+			"								",
+			"								\n",
+			"							",
+			"					",
+			"\n	",
+			"Ø	",
+			"					",
+			"	w	",
+			"Ø	",
+			"							",
+			"						",
+			"Ø	",
+			"							",
+			"\n	",
+			"						",
+			"							",
+			"	\n",
+			"Ø	",
+			"						",
+			"					",
+			"				",
+			"			",
+			"		",
+			"\n	",
+			"							",
+			"						",
+			"					",
+			"				",
+			"			",
+			"		",
+			"						",
+			"container",
+			"\n	",
+			"					",
+			"				",
+			"			",
+			"		",
+			"						",
+			"					",
+			"				",
+			"			",
+			"<table class=\"table table-bordered\">",
+			"$"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 365,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								340,
+								340
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 68,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63,
+								63
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"word_separators": "./\\\\()\\\"\\'-:,.;<>~!@#%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 148.0
+	},
+	"project": "CountDays.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app.js",
+				"MongoLab CRUD\\app.js"
+			],
+			[
+				"taskctr",
+				"tasks\\controllers\\TaskCtrl.js"
+			],
+			[
+				"cate",
+				"tasks\\controllers\\CategoryCtrl.js"
+			],
+			[
+				"userctrl",
+				"tasks\\controllers\\UserCtrl.js"
+			],
+			[
+				"function",
+				"functions.php"
+			],
+			[
+				"tmp_part",
+				"tmp_part_header.php"
+			],
+			[
+				"header",
+				"header.php"
+			],
+			[
+				"addctrl",
+				"angular demos\\simple crud\\partials\\remove.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\www\\Angular.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

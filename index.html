@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+	<meta charset="UTF-8">
+	<title>CountDays</title>
+
+	<link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css">
+	
+	<style>
+
+		* {padding: 0px; margin: 0px;}
+		body { padding: 10px 20px; background-color: #f3f3f3;  }
+		#defaultCountdown span { display: inline-block; float: left; }
+
+		.hasCountdown span { display: inline-block; float: left; padding: 2px; }
+		.hasCountdown span span { width: 20px; }
+
+		.form-validate input.ng-valid, .form-validate textarea.ng-valid { border-color: rgba(0, 149, 73, 0.4); }
+		.form-validate input.ng-invalid:not(.ng-pristine), .form-validate textarea.ng-invalid:not(.ng-pristine) { border-color: rgba(255,0,0,0.4); }
+
+	</style>
+
+	
+	<script type="text/javascript" src="lib/angular/angular.js"></script>
+	<script type="text/javascript" src="lib/angular-route/angular-route.js"></script>
+	<script type="text/javascript" src="lib/underscore/underscore.js"></script>
+
+	<script type="text/javascript" src="index.js"></script>
+	<script type="text/javascript" src="controllers/IndexCtrl.js"></script>
+	<script type="text/javascript" src="controllers/NewCtrl.js"></script>
+	<script type="text/javascript" src="controllers/EditCtrl.js"></script>
+	<script type="text/javascript" src="factories/LocalStorageFactory.js"></script>
+
+</head>
+<body ng-app="app">
+
+	<div class="container">
+		<div ng-view></div>
+	</div>
+	
+</body>
+</html>

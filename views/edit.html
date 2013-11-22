@@ -1,0 +1,25 @@
+<h2>Edit event.</h2>
+<div class="addEvent">
+	
+	<form name="editForm" class="form-validate">
+
+		<div class="form-group">
+			<label for="title">Event title.</label>
+			<input type="text" class="form-control" ng-minlength="2" ng-model="event.title" id="title" placeholder="Event title." required>
+		</div>
+		<div class="form-group">
+			<label for="description">Event description.</label>
+			<textarea class="form-control" ng-minlength="5" ng-model="event.description" id="description" placeholder="Event description." rows="5" required></textarea>
+		</div>
+		<div class="form-group">
+			<label for="date">Event date.</label>
+			<input type="date" class="form-control" ng-change="dateUpdate()" ng-model="event.dateAsString" pattern="dd/MM/YYYY" value="{{event.dateAsString}}" required />
+		</div>
+
+		<a href="#/" class="btn btn-danger ">Cancel</a>
+		<button id="addEvent" class="btn btn-primary pull-right" ng-disabled="isClean() || editForm.$invalid" ng-click="saveEvent()">Save event.</button>
+		<button  id="deleteEvent" class="btn btn-danger"  ng-show="event.id" ng-click="removeEvent()">Delete</button>
+
+	</form>
+
+</div>
