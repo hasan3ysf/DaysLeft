@@ -26,6 +26,11 @@ app.config( function ($routeProvider) {
 
 });
 
+// making links work under chrome extension
+app.config( function ($compileProvider) {
+  $compileProvider.aHrefSanitizationWhitelist (/^\s*(https?|ftp|mailto|file|tel|chrome-extension):/);
+});
+
 
 
 

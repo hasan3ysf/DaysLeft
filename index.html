@@ -1,9 +1,9 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" ng-app="app" ng-csp="">
 <head>
 
 	<meta charset="UTF-8">
-	<title>CountDays</title>
+	<title>DaysLeft - how many days left till THE DAY?!</title>
 
 	<link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css">
 	
@@ -18,7 +18,8 @@
 
 		.form-validate input.ng-valid, .form-validate textarea.ng-valid { border-color: rgba(0, 149, 73, 0.4); }
 		.form-validate input.ng-invalid:not(.ng-pristine), .form-validate textarea.ng-invalid:not(.ng-pristine) { border-color: rgba(255,0,0,0.4); }
-
+		.ng-hide { display: none; }
+		
 	</style>
 
 	
@@ -33,9 +34,9 @@
 	<script type="text/javascript" src="factories/LocalStorageFactory.js"></script>
 
 </head>
-<body ng-app="app">
+<body>
 
-	<div class="container">
+	<div class="container" style="min-width: 400px; min-height: 500px;">
 		<div ng-view></div>
 	</div>
 	
