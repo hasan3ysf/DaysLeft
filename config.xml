@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget 
+
+    xmlns        = "http://www.w3.org/ns/widgets"
+    xmlns:gap    = "http://phonegap.com/ns/1.0"
+    id           = "com.seefeld.daysleft"
+    versionCode  = "1" 
+    version      = "1.0"
+    >
+
+    <name>Days Left</name>
+    <description>Show you count of the days till very important event. You can add your own event.</description>
+    <author href="webiq.io" email="piotr.seefeld@gmail.com">Piotr Seefeld</author>
+
+    <!-- BUILD -->
+    <gap:platform name="ios" />
+    <gap:platform name="android" />
+    <!-- //BUILD -->
+
+    <!-- ACCESS -->
+    <access origin="http://127.0.0.1*"/>
+    <!-- //ACCESS -->
+
+    <!-- SPLASH -->
+    <gap:splash src="res/screen/android/screen-hdpi-portrait.png"  gap:platform="android" gap:density="hdpi" />
+    <gap:splash src="res/screen/android/screen-xhdpi-portrait.png" gap:platform="android" gap:density="xhdpi" />
+    <!-- //SPLASH -->
+
+    <!-- PHONEGAP VERSION -->
+    <preference name="phonegap-version" value="3.1.0" />
+    <!-- //PHONEGAP VERSION -->
+    
+</widget>
