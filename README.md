@@ -1,10 +1,10 @@
 DaysLeft - AngularJS
 ========
 
-Sample AngularJS app - using LocalStorage as a storage. 
+Sample AngularJS app - using LocalStorage as a storage. Created as an AngularJS excerice.
 
-The idea of the app is that you add event with dates and app will show you how many days are left till that date. 
-You can add/remove/update event info.
+Basic idea of the app is that you add event with date and app will show you how many days are left till that date. 
+You can also add/remove/update event info, filter table etc..
 
 This is also available as:
 - Web: http://angular.site44.com/DaysLeft/
