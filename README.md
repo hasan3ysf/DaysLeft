@@ -8,7 +8,8 @@ You can also add/remove/update event info, filter table etc..
 
 This is also available as:
 - Web: http://angular.site44.com/DaysLeft/
-- Chrome Extension: comming soon..
+- Chrome Extension: https://chrome.google.com/webstore/detail/days-left/khogeiighongppapbhcdapegdhcomdil
+- Andoird App - https://play.google.com/store/apps/details?id=com.seefeld.daysleft
 
 
 GNU (General Public License): Feel free to copy/reuse/change code.
